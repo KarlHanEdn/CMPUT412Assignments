@@ -1,3 +1,6 @@
 [submodule "DuckieTownExercise1"]
 	path = DuckieTownExercise1
 	url = https://github.com/KarlHanEdn/DuckieTownExercise1.git
+[submodule "exercise1/DuckieTownExercise1"]
+	path = exercise1/DuckieTownExercise1
+	url = https://github.com/KarlHanEdn/DuckieTownExercise1.git
