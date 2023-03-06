@@ -4,3 +4,9 @@
 [submodule "exercise1/DuckieTownExercise1"]
 	path = exercise1/DuckieTownExercise1
 	url = https://github.com/KarlHanEdn/DuckieTownExercise1.git
+[submodule "exercise3/E3P3Transform"]
+	path = exercise3/E3P3Transform
+	url = https://github.com/KarlHanEdn/E3P3Transform
+[submodule "exercise3/AdvancedARExercise"]
+	path = exercise3/AdvancedARExercise
+	url = https://github.com/CMPUT412-Exercise2-Leen-Tianming/AdvancedARExercise.git
