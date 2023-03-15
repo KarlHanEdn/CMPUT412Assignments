@@ -10,3 +10,6 @@
 [submodule "exercise3/AdvancedARExercise"]
 	path = exercise3/AdvancedARExercise
 	url = https://github.com/CMPUT412-Exercise2-Leen-Tianming/AdvancedARExercise.git
+[submodule "exercise4/E4Tailing"]
+	path = exercise4/E4Tailing
+	url = https://github.com/CMPUT412-Team-Leen-Tianming/E4Tailing
