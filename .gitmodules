@@ -13,3 +13,9 @@
 [submodule "exercise4/E4Tailing"]
 	path = exercise4/E4Tailing
 	url = https://github.com/CMPUT412-Team-Leen-Tianming/E4Tailing
+[submodule "exercise5/lab5"]
+	path = exercise5/lab5
+	url = https://github.com/Tur4L/cmput412_tur4l
+[submodule "exercise5/E5ML"]
+	path = exercise5/E5ML
+	url = https://github.com/CMPUT412-Friday-Lab-Team/E5ML.git
