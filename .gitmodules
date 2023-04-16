@@ -19,3 +19,9 @@
 [submodule "exercise5/E5ML"]
 	path = exercise5/E5ML
 	url = https://github.com/CMPUT412-Friday-Lab-Team/E5ML.git
+[submodule "project/Pj412"]
+	path = project/Pj412
+	url = https://github.com/CMPUT412-Friday-Lab-Team/Pj412.git
+[submodule "project/ObjectDetection"]
+	path = project/ObjectDetection
+	url = https://github.com/CMPUT412-Friday-Lab-Team/ObjectDetection.git
